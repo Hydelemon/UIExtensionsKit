@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "UIExtensionsKit"
 include(":app")
- 
+include(":UiExtenstionsKit")
